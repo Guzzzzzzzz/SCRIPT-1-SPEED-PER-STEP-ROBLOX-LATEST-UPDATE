@@ -14,10 +14,11 @@ FEATURE
 -🛡️ Anti AFK: A non-intrusive idle-kick prevention system using lightweight CFrame manipulation, ensuring account activity without risking executor crashes on Solara.
 
 
-
 🚀 Quick Start
 To execute the script instantly, copy the following loader into your preferred executor:
 loadstring(game:HttpGet("https://gist.githubusercontent.com/Guzzzzzzzz/32d034ee9ef7b56060daef65fbcb302e/raw/dfc331f11ebe408adb427021d8bf066a32b9c33b/script1speedperstep.lua"))()
+
+<img width="313" height="452" alt="image" src="https://github.com/user-attachments/assets/405bd8d9-e6cc-4a83-98d4-0e54a50fbbac" />
 
 📖 Detailed Usage Guide
 Scanning: Activate Scan Zone to locate the 3.5k/10k reward pads.
