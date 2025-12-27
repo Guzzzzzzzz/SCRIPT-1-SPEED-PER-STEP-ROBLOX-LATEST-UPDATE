@@ -6,8 +6,8 @@
 
 **1+ Speed Per Step** is a high-tier automation solution engineered for maximum efficiency in accumulating *Wins* and *Steps*. This script utilizes an optimized teleportation system designed to bypass inefficient areas and prioritize high-reward zones.
 
-![UI Preview](<img width="315" height="450" alt="image" src="https://github.com/user-attachments/assets/f043cb9e-6fa1-4f4d-99a7-6c079266c50a" />
-)
+![UI Preview] <img width="313" height="450" alt="image" src="https://github.com/user-attachments/assets/d51934a5-c835-4b74-b3f3-8bfd89c8afc5" />
+
 
 ---
 
