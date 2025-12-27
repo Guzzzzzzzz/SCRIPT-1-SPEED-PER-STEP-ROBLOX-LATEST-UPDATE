@@ -51,7 +51,7 @@
 To execute the script instantly, copy the following loader into your preferred executor:
 
 ```lua
-loadstring(game:HttpGet("[https://gist.githubusercontent.com/Guzzzzzzzz/32d034ee9ef7b56060daef65fbcb302e/raw/dfc331f11ebe408adb427021d8bf066a32b9c33b/script1speedperstep.lua](https://gist.githubusercontent.com/Guzzzzzzzz/32d034ee9ef7b56060daef65fbcb302e/raw/dfc331f11ebe408adb427021d8bf066a32b9c33b/script1speedperstep.lua)"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Guzzzzzzzz/32d034ee9ef7b56060daef65fbcb302e/raw/5ee69240c5983d7c266b4ef223007cc8943e0a7a/script1speedperstep.lua"))()
 ```
 📖 Detailed Usage Guide
 Scanning: Activate Scan Zone to locate the 3.5k/10k reward pads.
