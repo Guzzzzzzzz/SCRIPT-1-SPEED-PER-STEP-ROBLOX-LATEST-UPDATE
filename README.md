@@ -1,17 +1,19 @@
 # SCRIPT-1-SPEED-PER-STEP-ROBLOX-LATEST-UPDATE
-
 🚀 1+ Speed Per Step | Advanced Automation
-
 1+ Speed Per Step is a high-tier automation solution engineered for maximum efficiency in accumulating Wins and Steps. This script utilizes an optimized teleportation system designed to bypass inefficient areas and prioritize high-reward zones.
 
-🛡️ Core Features
-🔍 Precision Scanning (3.5k/10k): Features an intelligent zone-search algorithm that automatically skips Stages 1 through 11 to immediately target the 3.5k and 10k Win zones.
+FEATURE
+-🔍 Precision Scanning (3.5k/10k): Features an intelligent zone-search algorithm that automatically skips Stages 1 through 11 to immediately target the 3.5k and 10k Win zones.
 
-🏃 Hyper-Fast Auto Steps: Simulates character movement at the maximum engine frame rate to accumulate step points at unrivaled speeds.
+-🏃 Hyper-Fast Auto Steps: Simulates character movement at the maximum engine frame rate to accumulate step points at unrivaled speeds.
 
-🛡️ Solara-Safe Anti AFK: A non-intrusive idle-kick prevention system using lightweight CFrame manipulation, ensuring account activity without risking executor crashes on Solara.
+-⚡ Customizable Speed. You can manually set your walk speed to any value between 1 and 2000, giving you full control over your farming velocity.
 
-⚡ Professional UI Suite: A compact user interface featuring a horizontal layout, position locking, and full walk-speed customization.
+-🦘 Inf Jump: Features a robust Infinite Jump toggle, allowing you to bypass obstacles and navigate high-altitude zones effortlessly.
+
+-🛡️ Anti AFK: A non-intrusive idle-kick prevention system using lightweight CFrame manipulation, ensuring account activity without risking executor crashes on Solara.
+
+
 
 🚀 Quick Start
 To execute the script instantly, copy the following loader into your preferred executor:
@@ -32,8 +34,6 @@ Execution Level: Fully optimized for Solara (Level 3+).
 Skip Logic: Integrated automated bypass for Stages 1–11.
 
 UI Framework: Custom-built Matte Dark theme utilizing TweenService for smooth animations.
-
-Performance: Protected with "Basic Good" obfuscation to maintain 60+ FPS stability.
 
 🤝 Credits & Disclaimer
 Developed with precision by esteh1mas. This script is provided for educational purposes only. Using third-party automation tools carries risks to your account. Use responsibly.
