@@ -10,17 +10,17 @@
 ### 📸 UI Preview (v6.9)
 | Main Menu | Settings |
 | :---: | :---: |
-| <img width="315" height="205" alt="image" src="https://github.com/user-attachments/assets/755da1ec-cb67-4a8b-95b7-22fde3cc583a" /> | <img width="317" height="854" alt="image" src="https://github.com/user-attachments/assets/46f3fc0f-8cd0-4a90-bcab-6c06dd24a01b" /> |
+| <img width="317" height="208" alt="image" src="https://github.com/user-attachments/assets/8285e3a3-955d-493b-958a-367048d32005" /> | <img width="315" height="859" alt="image" src="https://github.com/user-attachments/assets/b0d26036-4b01-44fb-92f8-c89b13b36e6c" /> |
 | **Clean Dark Theme** | **Feature Rich** |
 
 ---
 
-### 🆕 Update v6.9: The "Ultimate" Polish
-* **🖱️ Smart Draggable Minimize**: The minimize button (`[M]`) is no longer stuck! You can now **drag it anywhere** on the screen. The script intelligently distinguishes between a "Click" (to open) and a "Drag" (to move).
-* **🛡️ God Mode (Invincible)**: Added a powerful safety feature that sets your health to infinite, making you immune to lava, lasers, and fall damage.
-* **👻 Noclip Integration**: Walk through walls, doors, and obstacles effortlessly with the new toggleable Noclip.
-* **📉 FPS Booster**: A dedicated "Low GFX" mode that strips textures and shadows to maximize performance on low-end devices.
-* **📂 Organized Layout**: Features are now neatly categorized into **Farming**, **Movement**, and **Misc** with collapsible sections.
+🆕 Update v6.9.6: The "Refined" Update
+🛠️ Anti-AFK Fixed (100%): Rewritten logic using VirtualUser:CaptureController to ensure you never get disconnected, even overnight.
+
+🎨 Refined Dark UI: A new vertical gradient theme (Blood Stealth) with smoother color transitions and glassmorphism effects.
+
+🛡️ Connection Cleanup: Optimized script engine that cleans up old memory to prevent lag/crashes when re-executing.
 
 ---
 
