@@ -1,4 +1,4 @@
-# SCRIPT-1-SPEED-PER-STEP-ROBLOX-10.000 WINS
+# SCRIPT 1 SPEED PER STEP ROBLOX-10.000 WINS
 
 # 🚀 1+ Speed Per Step | Ultimate Automation Suite
 ![Version](https://img.shields.io/badge/Version-6.9-blueviolet?style=for-the-badge)
